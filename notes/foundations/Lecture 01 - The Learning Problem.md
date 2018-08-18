@@ -1,3 +1,4 @@
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 # Lecture 01 - The Learning Problem
 
 - When Can Machine Learn ?
